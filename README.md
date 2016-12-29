@@ -1,2 +1,3 @@
 # helloworld
-Test
+Hello Humans!
+It is a wonderful day to learn Git.
